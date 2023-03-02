@@ -1,0 +1,11 @@
+.factory{
+    background-image: url("https://img.freepik.com/premium-photo/iron-steel-factory-pipe-mill-located-taganrog-south-russia_215274-722.jpg?w=2000");
+    width: 350px;
+    height: 600px;
+    min-width: 350px;
+    min-height: 600px;    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}

@@ -1,0 +1,13 @@
+.footer-link{
+    text-decoration: none;
+    list-style-type: none;
+  }
+  .footer-link a{
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.footer-link :hover{
+    text-decoration: none;
+    color: rgb(16, 167, 167);
+}

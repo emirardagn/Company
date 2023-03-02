@@ -1,0 +1,39 @@
+ion-icon{
+    font-size: 60px;
+    color: rgb(16, 167, 167);
+  }
+
+.form-content input{
+  border: 1px solid rgb(16, 167, 167);
+  border-radius: 2px;
+}
+input:focus {
+  outline: none !important;
+  box-shadow: 0 0 6px rgba(16, 167, 167, 0.612);
+}
+textarea:focus{
+  outline: none !important;
+  box-shadow: 0 0 6px rgba(16, 167, 167, 0.612);
+}
+
+.form-content textarea{
+  border: 1px solid rgb(16, 167, 167);
+  border-radius: 2px;
+}
+
+.bx{
+  outline: none !important;
+  box-shadow: 0 0 6px rgba(72, 72, 72, 0.612);
+}
+
+textarea{
+  min-height: 150px;
+}
+.form-content button{
+  border: 1px solid rgb(16, 167, 167);
+  border-radius: 2px;
+  background-color: rgb(16, 167, 167);
+  color: white;
+  border-color: white;
+  font-size: larger;
+}
